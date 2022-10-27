@@ -3,7 +3,7 @@ function Nav() {
     <nav>
       <ul className="section">
         <li>About</li>
-        <li>Project</li>
+        <li>Portfolio</li>
         <li>Contact Me</li>
         <li>Resume</li>
       </ul>
