@@ -1,15 +1,13 @@
 function Nav() {
   return (
-    <section>
-      <div>
-        <ul>
-          <li>About</li>
-          <li>Projects</li>
-          <li>Contact</li>
-          <li>Resume</li>
-        </ul>
-      </div>
-    </section>
+    <nav>
+      <ul className="section">
+        <li>About</li>
+        <li>Project</li>
+        <li>Contact Me</li>
+        <li>Resume</li>
+      </ul>
+    </nav>
   )
 };
 

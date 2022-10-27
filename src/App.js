@@ -9,8 +9,8 @@ import Nav from './components/Nav'
 
 function App() {
   return (
-    <div>
-      {/* <Header></Header> */}
+    <div className='App'>
+      <Header></Header>
       <main>
         <About></About>
         {/* <Project></Project> */}

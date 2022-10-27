@@ -3,15 +3,13 @@ import Nav from '../Nav';
 
 function Header() {
   return (
-    <section>
-      <h1>Jonathan Thompson</h1>
-      <h4>Full Stack Web Developer</h4>
-      <div>
-        <Nav>
-
-        </Nav>
+    <header>
+      <div className='headerContent'>
+        <h1 className='title'>Jonathan Thompson</h1>
+        <p className='underTitle'>Full Stack Web Developer</p>
       </div>
-    </section>
+      <Nav></Nav>
+    </header>
   )
 }
 
