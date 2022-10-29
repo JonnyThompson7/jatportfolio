@@ -130,6 +130,7 @@ li {
   width: 50vh;
   border: 4px solid rgb(139, 69, 197);
   margin-bottom: 20px;
+  cursor: pointer;
 }
 
 /* Modal Styles */
