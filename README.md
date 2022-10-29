@@ -1,7 +1,7 @@
 # Jonathan Thomposn Coding Portfolio
 
 ## Description
-This application is a portfolio written to showcase my skill as a developer. This portfolio is a react application because I really enjoy working with react!
+Here is Version 2.0 of my Portfolio. Made with React, and CSS to showcase my love for Front-End Developing!
 
 ## Application
 You can visit [My Portfolio here](https://jonnythompson7.github.io/jatportfolio/)
