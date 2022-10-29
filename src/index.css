@@ -46,7 +46,7 @@ header {
 }
 
 header nav {
-width: 60%;
+  width: 60%;
 }
 
 header nav ul {
@@ -134,7 +134,71 @@ li {
 
 /* Modal Styles */
 
+.modal {
+  bottom: 0;
+  left: 0;
+  overflow: auto;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 1;
+}
 
+.modalContainer {
+  background: rgb(17, 17, 17);
+  border-radius: 5px;
+  max-width: 100%;
+  margin: 50px auto;
+  padding: 15px;
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.modalTitle {
+  margin-top: 30px;
+  font-size: 48px;
+  text-align: center;
+}
+
+.modalImage {
+  height: 300px;
+  width: auto;
+  border-radius: 5px;
+  border: 4px solid rgb(139, 69, 197);
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.modalButton {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.btnStyle {
+  padding: 10px;
+  font-size: 24px;
+  margin: 5px;
+  background-color: rgb(139, 69, 197);
+  border: 4px solid rgb(117, 112, 112);
+}
+
+.btnText {
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.modalDescription {
+  font-size: 20px;
+  text-align: center;
+}
+
+#close {
+  margin-left: auto;
+  color: white;
+  cursor: pointer;
+}
 
 /* Contact Styles */
 
