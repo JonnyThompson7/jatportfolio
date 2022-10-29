@@ -3,8 +3,7 @@ function About() {
     <section className='about'>
       <h3 className='aboutTitle'>Who am I?</h3>
       <div className='aboutCard'>
-        <img className='pfp' src={require('../../assets/pog.JPG')}></img>
-        <p className='aboutMe'>
+      <p className='aboutMe'>
           Jonny Thompson. I am a Full Stack Web Developer from Wisconsin. This is my Portfolio. Please Enjoy...
           - Front End Enjoyer
           - Languages/Skills - Js, HTML, CSS, React, Node, Express, MySQL, NoSQL, MERN stack, PWAs,
@@ -17,7 +16,7 @@ function About() {
           layout with my styles. The short paragraph I had looked funky with such a small paragraph so I figured that
           if I typed a longer one, it would look more appealing.
         </p>
-
+        <img className='pfp' src={require('../../assets/pog.JPG')}></img>
       </div>
     </section>
   )

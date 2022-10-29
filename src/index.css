@@ -98,7 +98,7 @@ li {
 .aboutMe {
   align-items: center;
   padding: 3%;
-  border: 4px solid rgb(139, 69, 197);
+  border: 4px solid rgb(17, 17, 17);
   margin: 5%;
   font-size: 18px;
   font-weight: bold;
@@ -128,7 +128,7 @@ li {
 .appImage {
   height: 30vh;
   width: 50vh;
-  border: 4px solid rgb(139, 69, 197);
+  border: 4px solid rgb(17, 17, 17);
   margin-bottom: 20px;
   cursor: pointer;
 }
@@ -167,9 +167,9 @@ li {
   height: 300px;
   width: auto;
   border-radius: 5px;
-  border: 4px solid rgb(139, 69, 197);
   margin: auto;
   margin-bottom: 20px;
+  border: 4px solid rgb(255, 255, 255);
 }
 
 .modalButton {
@@ -182,7 +182,6 @@ li {
   font-size: 24px;
   margin: 5px;
   background-color: rgb(139, 69, 197);
-  border: 4px solid rgb(117, 112, 112);
 }
 
 .btnText {
@@ -293,7 +292,7 @@ input {
 .resumeCard {
   height: 50vh;
   width: 40vh;
-  border: 4px solid rgb(139, 69, 197);
+
 }
 
 .resumeCard h3 {
@@ -305,6 +304,16 @@ input {
   display: flex;
   flex-direction: column;
   text-align: center;
+}
+
+.book {
+  font-size: 100px;
+  color: black;
+}
+
+div h4 {
+  font-size: 20px;
+  margin-bottom: 5px;
 }
 
 /* Footer Styles */
