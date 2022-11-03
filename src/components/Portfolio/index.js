@@ -39,11 +39,11 @@ function Portfolio() {
       link: 'https://jonnythompson7.github.io/schedulemeplease/'
     },
     {
-      picture: require('../../assets/weather.JPG'),
-      name: 'Weather Dashboard',
-      description: 'Upon opening the page you will be brought to weather forecast search engine. You will be able to search a city, and have it weather display on the page. After completing your search, each city will get added to the search history. You will have a color prompting you about the UV index within your searched city, and you will also be able to see the 5 day forecast of the city with multiple weather measures.',
-      repo: 'https://github.com/JonnyThompson7/weatherdash',
-      link: 'https://jonnythompson7.github.io/weatherdash/'
+      picture: require('../../assets/trip.JPG'),
+      name: 'Trip Inspired',
+      description: 'A travel companion app to help inspire users to select travel destinations. Searching by a location will result in books (and eventually movies and news headlines) related to that location.',
+      repo: 'https://github.com/SuB-GH/trip-inspired',
+      link: 'https://lit-taiga-03670.herokuapp.com/'
     },
   ])
 
