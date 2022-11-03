@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/jatportfolio/static/css/main.2a1860d2.css",
-    "main.js": "/jatportfolio/static/js/main.006438b8.js",
+    "main.js": "/jatportfolio/static/js/main.c905c545.js",
     "static/js/787.ed675b31.chunk.js": "/jatportfolio/static/js/787.ed675b31.chunk.js",
     "static/media/og.JPG": "/jatportfolio/static/media/og.bc3d974907c83e02e40d.JPG",
     "static/media/runbuddy.JPG": "/jatportfolio/static/media/runbuddy.ea4fe44e294a73a25da3.JPG",
+    "static/media/trip.JPG": "/jatportfolio/static/media/trip.d516b727957cadf18aae.JPG",
     "static/media/resume.docx": "/jatportfolio/static/media/resume.333c63ccdc0365655fa4.docx",
-    "static/media/weather.JPG": "/jatportfolio/static/media/weather.466bad532c3306567a12.JPG",
     "static/media/work.JPG": "/jatportfolio/static/media/work.26c6ca48251c699a34c9.JPG",
     "static/media/pog.JPG": "/jatportfolio/static/media/pog.e7138e4226583309fbbd.JPG",
     "static/media/doggypedia.JPG": "/jatportfolio/static/media/doggypedia.5061b4ba92f15e48510a.JPG",
     "static/media/quiz.JPG": "/jatportfolio/static/media/quiz.8aba0111efc616fb1d2a.JPG",
     "index.html": "/jatportfolio/index.html",
     "main.2a1860d2.css.map": "/jatportfolio/static/css/main.2a1860d2.css.map",
-    "main.006438b8.js.map": "/jatportfolio/static/js/main.006438b8.js.map",
+    "main.c905c545.js.map": "/jatportfolio/static/js/main.c905c545.js.map",
     "787.ed675b31.chunk.js.map": "/jatportfolio/static/js/787.ed675b31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a1860d2.css",
-    "static/js/main.006438b8.js"
+    "static/js/main.c905c545.js"
   ]
 }
