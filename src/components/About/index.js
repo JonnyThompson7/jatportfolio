@@ -3,8 +3,8 @@ function About() {
     <section className='about'>
       <h3 className='aboutTitle'>Who am I?</h3>
       <div className='aboutCard'>
-      <p className='aboutMe'>
-          Jonny Thompson. I am a Full Stack Web Developer from Wisconsin. This is my Portfolio. Please Enjoy...
+        <p className='aboutMe'>
+          Jonny Thompson I am a Full Stack Web Developer from Wisconsin. This is my Portfolio. Please Enjoy...
           - Front End Enjoyer
           - Languages/Skills - Js, HTML, CSS, React, Node, Express, MySQL, NoSQL, MERN stack, PWAs,
           - Driven, Attentive, Flexible, Punctual
